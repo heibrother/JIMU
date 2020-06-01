@@ -31,8 +31,91 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" exported="" name="Gradle: gradle-2.3.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gradle-3.6.3" level="project" />
     <orderEntry type="library" exported="" name="Gradle: javassist-3.20.0-GA" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: builder-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: crash-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: lint-gradle-api-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gradle-api-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: databinding-compiler-common-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: manifest-merger-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: sdk-common-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: tracker-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: sdklib-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: repository-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: shared-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: kotlin-stdlib-jdk8-1.3.71" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: transform-api-2.0.0-deprecated-use-gradle-api" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jetifier-processor-1.0.0-beta08" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: asm-commons-7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: asm-util-7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: asm-analysis-7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: asm-tree-7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: asm-7.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jopt-simple-4.9" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: proguard-gradle-6.0.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: bundletool-0.10.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jetifier-core-1.0.0-beta08" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: protobuf-java-util-3.4.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: protos-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: aapt2-proto-0.4.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: protobuf-java-3.4.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: builder-model-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: builder-test-api-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: ddmlib-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: signflinger-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: zipflinger-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: layoutlib-api-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: dvlib-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: common-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: apkzlib-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: apksig-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javawriter-2.5.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: bcpkix-jdk15on-1.56" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: bcprov-jdk15on-1.56" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.inject-1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: fastutil-7.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: json-simple-1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: annotations-26.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jimfs-1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: guava-27.1-jre" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: httpmime-4.5.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: httpclient-4.5.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: httpcore-4.4.10" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: kotlin-reflect-1.3.71" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: databinding-common-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: baseLibrary-3.6.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: antlr4-4.5.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-io-2.4" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: juniversalchardet-1.0.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javapoet-1.10.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: gson-2.8.5" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: kotlin-stdlib-jdk7-1.3.71" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: kotlin-stdlib-1.3.71" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: proguard-base-6.0.3" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jdom2-2.0.6" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-compress-1.12" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: trove4j-20160824" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: kxml2-2.3.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jsr305-3.0.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: failureaccess-1.0.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: listenablefuture-9999.0-empty-to-avoid-conflict-with-guava" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: checker-qual-2.5.2" level="project" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Gradle: error_prone_annotations-2.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: j2objc-annotations-1.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: animal-sniffer-annotations-1.17" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-logging-1.2" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: commons-codec-1.10" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: kotlin-stdlib-common-1.3.71" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: annotations-13.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.activation-1.2.0" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jaxb-runtime-2.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: jaxb-api-2.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: txw2-2.3.1" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: istack-commons-runtime-3.0.7" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: stax-ex-1.8" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: FastInfoset-1.2.15" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: javax.activation-api-1.2.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: gradle-api-5.6.4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: groovy-all-1.3-2.5.4" level="project" />
     <orderEntry type="library" exported="" name="Gradle: kotlin-stdlib-jdk8-1.3.41" level="project" />
@@ -41,123 +124,9 @@
     <orderEntry type="library" exported="" name="Gradle: kotlin-stdlib-jdk7-1.3.41" level="project" />
     <orderEntry type="library" exported="" name="Gradle: kotlin-reflect-1.3.41" level="project" />
     <orderEntry type="library" exported="" name="Gradle: gradle-installation-beacon-5.6.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: gradle-core-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: builder-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: lint-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: transform-api-2.0.0-deprecated-use-gradle-api" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: gradle-api-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: compilerCommon-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: asm-commons-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: lint-checks-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: lint-api-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: asm-analysis-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: asm-tree-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: asm-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: proguard-gradle-5.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: org.jacoco.report-0.7.5.201505241946" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: org.jacoco.core-0.7.5.201505241946" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jopt-simple-4.9" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: tracker-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: shared-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: protos-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: protobuf-java-3.0.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: antlr-3.5.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: manifest-merger-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: sdk-common-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: builder-model-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: builder-test-api-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: sdklib-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: ddmlib-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: layoutlib-api-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: dvlib-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: repository-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: common-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jack-api-0.13.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jill-api-0.10.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: javawriter-2.5.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: bcpkix-jdk15on-1.48" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: bcprov-jdk15on-1.48" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: ecj-4.6.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: jimfs-1.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: lombok-ast-0.2.3" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: guava-18.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: baseLibrary-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: antlr4-4.5.3" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: commons-io-2.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: juniversalchardet-1.0.3" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: annotations-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: proguard-base-5.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: asm-debug-all-5.0.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: ST4-4.0.8" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: antlr-runtime-3.5.2" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: gson-2.2.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: commons-compress-1.8.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: httpclient-4.1.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: httpmime-4.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: kxml2-2.3.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: annotations-12.0" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: httpcore-4.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: commons-logging-1.1.1" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: commons-codec-1.4" level="project" />
-    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: uast-162.2228.14" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: gradle-core-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: builder-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: lint-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: transform-api-2.0.0-deprecated-use-gradle-api" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: gradle-api-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: compilerCommon-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-commons-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: lint-checks-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: lint-api-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-analysis-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-tree-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-5.0.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: proguard-gradle-5.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: org.jacoco.report-0.7.5.201505241946" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: org.jacoco.core-0.7.5.201505241946" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jopt-simple-4.9" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: tracker-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: shared-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: protos-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: protobuf-java-3.0.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: antlr-3.5.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: manifest-merger-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: sdk-common-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: builder-model-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: builder-test-api-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: sdklib-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: ddmlib-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: layoutlib-api-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: dvlib-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: repository-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: common-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jack-api-0.13.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jill-api-0.10.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: javawriter-2.5.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: bcpkix-jdk15on-1.48" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: bcprov-jdk15on-1.48" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: ecj-4.6.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: jimfs-1.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: lombok-ast-0.2.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: guava-18.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: baseLibrary-2.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: antlr4-4.5.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-io-2.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: juniversalchardet-1.0.3" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: annotations-25.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: proguard-base-5.3.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: asm-debug-all-5.0.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: ST4-4.0.8" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: antlr-runtime-3.5.2" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: gson-2.2.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-compress-1.8.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpclient-4.1.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpmime-4.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: kxml2-2.3.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: annotations-12.0" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: httpcore-4.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-logging-1.1.1" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: commons-codec-1.4" level="project" />
-    <orderEntry type="library" exported="" scope="TEST" name="Gradle: uast-162.2228.14" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: auto-value-annotations-1.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="RUNTIME" name="Gradle: error_prone_annotations-2.3.1" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: auto-value-annotations-1.6.2" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="Gradle: error_prone_annotations-2.3.1" level="project" />
   </component>
 </module>
