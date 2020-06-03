@@ -6,3 +6,7 @@
 /build
 /captures
 /local_repo
+build.gradle
+gradlew.bat
+gradlew
+gradle/wrapper/*
